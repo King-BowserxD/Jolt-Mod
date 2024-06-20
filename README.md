@@ -2,6 +2,9 @@
 
 Hello! This mod is made by Chronosuge and Mr.Bowser
 
+Chronosurge is creator who had idea about mod. He is tester on the mod.
+Mr.Bowser is designer and editor who edits the Venge assests
+
 # How to install the Jolt Mod
 
 1. Get Jolt_Mod.zip file
