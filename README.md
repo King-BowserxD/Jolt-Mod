@@ -8,7 +8,21 @@ Mr.Bowser is designer and editor who edits the Venge assests
 # Two version of the mod
 
 * Version 1 is not avabilable as it needs to be fixed (Please note: this mod won't have json files)
-* version 2 is avabilable and is final version of mod (Please note: this mod has json files in it which it removes some map assest)
+*  Version 2 is avabilable and is final version of mod (Please note: this mod has json files in it which it removes some map assest)
+
+
+# PREVIEW
+
+* JOLT MOD VERSION 1:
+
+PREVIEW IS NOT AVABILABLE!
+
+* JOLT MOD VERSION 2:
+
+![image](https://github.com/King-BowserxD/Jolt-Mod/assets/173395033/3b3b9bbb-94ba-44fb-a7a6-9f5f51c63fba)
+
+Screenshots is credited to Chronosurge's. 
+
 
 
 # How to install the Jolt Mod Version 1
