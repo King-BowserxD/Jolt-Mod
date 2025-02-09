@@ -9,7 +9,11 @@ Please try this mod! Thank you for supporting us!
 
 * JOLT MOD VERSION 1:
 
-PREVIEW AVAILABLE SOON
+![image](https://github.com/King-BowserxD/Jolt-Mod/blob/main/Screenshot_2025-02-09_095436.png)
+![image](https://github.com/King-BowserxD/Jolt-Mod/blob/main/Screenshot_2025-02-09_095541.png)
+![image](https://github.com/King-BowserxD/Jolt-Mod/blob/main/Screenshot_2025-02-09_095615.png)
+
+Screenshot credit to @The-Dragon
 
 
 # How to install the Jolt Mod Version 1
